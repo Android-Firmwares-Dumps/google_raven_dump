@@ -1,0 +1,14 @@
+# raven-user 12 SQ1D.220205.004 8151327 release-keys
+- manufacturer: 
+- platform: gs101
+- codename: raven
+- flavor: raven-user
+- release: 12
+- id: SQ1D.220205.004
+- incremental: 8151327
+- tags: release-keys
+- fingerprint: google/raven/raven:12/SQ1D.220205.004/8151327:user/release-keys
+- is_ab: true
+- brand: google
+- branch: raven-user-12-SQ1D.220205.004-8151327-release-keys
+- repo: google_raven_dump
